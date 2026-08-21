@@ -14,6 +14,21 @@
     "price": null,
     "available": true
   },
+  "https://www.toysrus.com.my/beyblade-x-ux-09-starter-samurai-saber-2-70l-10063440.html": {
+    "name": "Beyblade X Ux-09 Starter Samurai Saber 2-70l",
+    "price": "RM109.90",
+    "available": true
+  },
+  "https://www.toysrus.com.my/beyblade-x-ux-02-starter-hells-hammer-10026913.html": {
+    "name": "Beyblade X Ux-02 Starter Hells Hammer",
+    "price": "RM79.90",
+    "available": true
+  },
+  "https://www.toysrus.com.my/beyblade-x-cx-07-starter-10098503.html": {
+    "name": "Beyblade X Cx-07 Starter",
+    "price": "RM89.90",
+    "available": true
+  },
   "https://www.toysrus.com.my/beyblade-bx-100-booster-dranzer-spiral-10008055.html": {
     "name": "Beyblade BX-100 Booster Dranzer Spiral",
     "price": "RM56.90",
@@ -119,11 +134,6 @@
     "price": "RM89.90",
     "available": false
   },
-  "https://www.toysrus.com.my/beyblade-x-ux-09-starter-samurai-saber-2-70l-10063440.html": {
-    "name": "Beyblade X Ux-09 Starter Samurai Saber 2-70l",
-    "price": "RM109.90",
-    "available": false
-  },
   "https://www.toysrus.com.my/beyblade-x-bx-46-stadium-set-10112963.html": {
     "name": "Beyblade X BX-46 Stadium Set",
     "price": "RM399.90",
@@ -177,11 +187,6 @@
   "https://www.toysrus.com.my/beyblade-x-ux-08-starter-silver-wolf-3-80fb-10057321.html": {
     "name": "Beyblade X Ux-08 Starter Silver Wolf 3-80fb",
     "price": "RM76.90",
-    "available": false
-  },
-  "https://www.toysrus.com.my/beyblade-x-ux-02-starter-hells-hammer-10026913.html": {
-    "name": "Beyblade X Ux-02 Starter Hells Hammer",
-    "price": "RM79.90",
     "available": false
   },
   "https://www.toysrus.com.my/beyblade-x-bx-31-random-booster-vol.3---assorted-10032770.html": {
@@ -257,11 +262,6 @@
   "https://www.toysrus.com.my/beyblade-x-bx-29-custom-grip-white-ver.-10026910.html": {
     "name": "Beyblade X Bx-29 Custom Grip White Ver.",
     "price": "RM44.90",
-    "available": false
-  },
-  "https://www.toysrus.com.my/beyblade-x-cx-07-starter-10098503.html": {
-    "name": "Beyblade X Cx-07 Starter",
-    "price": "RM89.90",
     "available": false
   },
   "https://www.toysrus.com.my/beyblade-x-bx-00-booster-draciel-shield-7-60d-10067987.html": {
