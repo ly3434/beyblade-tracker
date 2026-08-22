@@ -79,9 +79,9 @@
     "price": "RM94.90",
     "available": false
   },
-  "https://www.toysrus.com.my/beyblade-x-ux-16-random-booster-tokei-10114859.html": {
-    "name": "Beyblade X UX-16 Random Booster / Tokei",
-    "price": "RM52.90",
+  "https://www.toysrus.com.my/beyblade-x-ux-17-starter-meteor-dragoon-3-70j-10125375.html": {
+    "name": "Beyblade X Ux-17 Starter Meteor Dragoon 3-70J",
+    "price": "RM89.90",
     "available": false
   },
   "https://www.toysrus.com.my/beyblade-x-ux-04-battle-entry-set-u-10026915.html": {
@@ -89,9 +89,9 @@
     "price": "RM339.90",
     "available": false
   },
-  "https://www.toysrus.com.my/beyblade-x-ux-17-starter-meteor-dragoon-3-70j-10125375.html": {
-    "name": "Beyblade X Ux-17 Starter Meteor Dragoon 3-70J",
-    "price": "RM89.90",
+  "https://www.toysrus.com.my/beyblade-x-bx-46-stadium-set-10112963.html": {
+    "name": "Beyblade X BX-46 Stadium Set",
+    "price": "RM399.90",
     "available": false
   },
   "https://www.toysrus.com.my/beyblade-bx-23-starter-phoenix-10016234.html": {
@@ -99,19 +99,9 @@
     "price": "RM89.90",
     "available": false
   },
-  "https://www.toysrus.com.my/beyblade-bx-10-xtreme-stadium-10008053.html": {
-    "name": "BEYBLADE BX-10 XTREME STADIUM",
-    "price": "RM149.90",
-    "available": false
-  },
-  "https://www.toysrus.com.my/beyblade-x-bx-46-stadium-set-10112963.html": {
-    "name": "Beyblade X BX-46 Stadium Set",
-    "price": "RM399.90",
-    "available": false
-  },
-  "https://www.toysrus.com.my/beyblade-x-bx-21-hellschain-de-10016233.html": {
-    "name": "BEYBLADE X BX-21 HELLSCHAIN DE",
-    "price": "RM129.90",
+  "https://www.toysrus.com.my/beyblade-x-ux-16-random-booster-tokei-10114859.html": {
+    "name": "Beyblade X UX-16 Random Booster / Tokei",
+    "price": "RM52.90",
     "available": false
   },
   "https://www.toysrus.com.my/beyblade-x-cx-18-random-booster%3A-brachiow-whip-select-10151491.html": {
@@ -119,8 +109,13 @@
     "price": "RM52.90",
     "available": false
   },
-  "https://www.toysrus.com.my/beyblade-x-ux-07-phoenix-ladder-deck-set-10050596.html": {
-    "name": "Beyblade X Ux-07 Phoenix Ladder Deck Set",
+  "https://www.toysrus.com.my/beyblade-x-ux-08-starter-silver-wolf-3-80fb-10057321.html": {
+    "name": "Beyblade X Ux-08 Starter Silver Wolf 3-80fb",
+    "price": "RM76.90",
+    "available": false
+  },
+  "https://www.toysrus.com.my/beyblade-x-bx-21-hellschain-de-10016233.html": {
+    "name": "BEYBLADE X BX-21 HELLSCHAIN DE",
     "price": "RM129.90",
     "available": false
   },
@@ -129,9 +124,9 @@
     "price": "RM89.90",
     "available": false
   },
-  "https://www.toysrus.com.my/beyblade-x-bx-48-random-booster-vol.9-10130573.html": {
-    "name": "Beyblade X Bx-48 Random Booster Vol.9",
-    "price": "RM52.90",
+  "https://www.toysrus.com.my/beyblade-bx-10-xtreme-stadium-10008053.html": {
+    "name": "BEYBLADE BX-10 XTREME STADIUM",
+    "price": "RM149.90",
     "available": false
   },
   "https://www.toysrus.com.my/beyblade-x-bx-50-random-booster-vol.11-10156289.html": {
@@ -144,9 +139,9 @@
     "price": "RM59.90",
     "available": false
   },
-  "https://www.toysrus.com.my/beyblade-ux-00-bey-kick-off-set-fc-barcelona-version-10072865.html": {
-    "name": "Beyblade UX-00 Bey Kick Off Set Fc Barcelona Version",
-    "price": "RM309.90",
+  "https://www.toysrus.com.my/beyblade-x-ux-07-phoenix-ladder-deck-set-10050596.html": {
+    "name": "Beyblade X Ux-07 Phoenix Ladder Deck Set",
+    "price": "RM129.90",
     "available": false
   },
   "https://www.toysrus.com.my/beyblade-x-bx-00-starter-storm-pegasus-3-70ra-10156291.html": {
@@ -154,8 +149,68 @@
     "price": "RM85.90",
     "available": false
   },
+  "https://www.toysrus.com.my/beyblade-x-bx-48-random-booster-vol.9-10130573.html": {
+    "name": "Beyblade X Bx-48 Random Booster Vol.9",
+    "price": "RM52.90",
+    "available": false
+  },
+  "https://www.toysrus.com.my/beyblade-ux-00-bey-kick-off-set-fc-barcelona-version-10072865.html": {
+    "name": "Beyblade UX-00 Bey Kick Off Set Fc Barcelona Version",
+    "price": "RM309.90",
+    "available": false
+  },
+  "https://www.toysrus.com.my/beyblade-x-cx-16-start-dash-set-c-10138215.html": {
+    "name": "Beyblade X Cx-16 Start Dash Set C",
+    "price": "RM299.90",
+    "available": false
+  },
   "https://www.toysrus.com.my/beyblade-x-cx-08-random-booster-vol.7---assorted-10098504.html": {
     "name": "Beyblade X Cx-08 Random Booster Vol.7 - Assorted",
+    "price": "RM54.90",
+    "available": false
+  },
+  "https://www.toysrus.com.my/beyblade-x-bx-12-3on3-deck-case-10008056.html": {
+    "name": "Beyblade X Bx-12 3On3 Deck Case",
+    "price": "RM42.90",
+    "available": false
+  },
+  "https://www.toysrus.com.my/beyblade-x-cx-04-entry-set-10078298.html": {
+    "name": "Beyblade X CX-04 Entry Set",
+    "price": "RM329.90",
+    "available": false
+  },
+  "https://www.toysrus.com.my/beybladex-cx-13-starter-ba-10138212.html": {
+    "name": "Beybladex Cx-13 Starter BA",
+    "price": "RM85.90",
+    "available": false
+  },
+  "https://www.toysrus.com.my/beyblade-x-bx-42-rubber-custom-grip-blue-ver.-10078292.html": {
+    "name": "Beyblade X Bx-42 Rubber Custom Grip Blue Ver.",
+    "price": "RM44.90",
+    "available": false
+  },
+  "https://www.toysrus.com.my/beyblade-x-bx-37-beystadium-10067501.html": {
+    "name": "Beyblade X BX-37 Beystadium",
+    "price": "RM399.90",
+    "available": false
+  },
+  "https://www.toysrus.com.my/beyblade-x-bxg-13-mar-xeno-xcalibur-10078299.html": {
+    "name": "Beyblade X BXG-13 Mar Xeno Xcalibur",
+    "price": "RM99.90",
+    "available": false
+  },
+  "https://www.toysrus.com.my/beyblade-x-cx-06-random-booster-fox-brush-select---assorted-10078302.html": {
+    "name": "Beyblade X Cx-06 Random Booster Fox Brush Select - Assorted",
+    "price": "RM52.90",
+    "available": false
+  },
+  "https://www.toysrus.com.my/beyblade-x-bx-51-string-launcher-black-x-green-10151490.html": {
+    "name": "Beyblade X BX-51 String Launcher Black x Green",
+    "price": "RM44.90",
+    "available": false
+  },
+  "https://www.toysrus.com.my/beyblade-x-bx-31-random-booster-vol.3---assorted-10032770.html": {
+    "name": "Beyblade X Bx-31 Random Booster Vol.3 - Assorted",
     "price": "RM54.90",
     "available": false
   },
@@ -164,69 +219,9 @@
     "price": "RM52.90",
     "available": false
   },
-  "https://www.toysrus.com.my/beyblade-x-bx-37-beystadium-10067501.html": {
-    "name": "Beyblade X BX-37 Beystadium",
-    "price": "RM399.90",
-    "available": false
-  },
-  "https://www.toysrus.com.my/beyblade-x-ux-08-starter-silver-wolf-3-80fb-10057321.html": {
-    "name": "Beyblade X Ux-08 Starter Silver Wolf 3-80fb",
-    "price": "RM76.90",
-    "available": false
-  },
-  "https://www.toysrus.com.my/beyblade-x-cx-16-start-dash-set-c-10138215.html": {
-    "name": "Beyblade X Cx-16 Start Dash Set C",
-    "price": "RM299.90",
-    "available": false
-  },
-  "https://www.toysrus.com.my/beybladex-cx-13-starter-ba-10138212.html": {
-    "name": "Beybladex Cx-13 Starter BA",
-    "price": "RM85.90",
-    "available": false
-  },
-  "https://www.toysrus.com.my/beyblade-x-bx-51-string-launcher-black-x-green-10151490.html": {
-    "name": "Beyblade X BX-51 String Launcher Black x Green",
-    "price": "RM44.90",
-    "available": false
-  },
-  "https://www.toysrus.com.my/beyblade-x-bxg-13-mar-xeno-xcalibur-10078299.html": {
-    "name": "Beyblade X BXG-13 Mar Xeno Xcalibur",
-    "price": "RM99.90",
-    "available": false
-  },
-  "https://www.toysrus.com.my/beyblade-x-cx-15-booster-ragnarage-fe4-55y-10138214.html": {
-    "name": "Beyblade X Cx-15 Booster Ragnarage Fe4-55Y",
+  "https://www.toysrus.com.my/beyblade-bx-14-random-booster-10008058.html": {
+    "name": "BEYBLADE BX-14 RANDOM BOOSTER",
     "price": "RM52.90",
-    "available": false
-  },
-  "https://www.toysrus.com.my/beyblade-bx-01-starter-dran-sw-10007158.html": {
-    "name": "BEYBLADE BX-01 STARTER DRAN SW",
-    "price": "RM79.90",
-    "available": false
-  },
-  "https://www.toysrus.com.my/beyblade-x-bx-12-3on3-deck-case-10008056.html": {
-    "name": "Beyblade X Bx-12 3On3 Deck Case",
-    "price": "RM42.90",
-    "available": false
-  },
-  "https://www.toysrus.com.my/ux-18-random-booster-vol.8---assorted-10125376.html": {
-    "name": "Ux-18 Random Booster Vol.8 - Assorted",
-    "price": "RM52.90",
-    "available": false
-  },
-  "https://www.toysrus.com.my/beyblade-x-cx-04-entry-set-10078298.html": {
-    "name": "Beyblade X CX-04 Entry Set",
-    "price": "RM329.90",
-    "available": false
-  },
-  "https://www.toysrus.com.my/beyblade-bx-11-launcher-grip-10008054.html": {
-    "name": "BEYBLADE BX-11 LAUNCHER GRIP",
-    "price": "RM29.90",
-    "available": false
-  },
-  "https://www.toysrus.com.my/beyblade-x-bx-31-random-booster-vol.3---assorted-10032770.html": {
-    "name": "Beyblade X Bx-31 Random Booster Vol.3 - Assorted",
-    "price": "RM54.90",
     "available": false
   },
   "https://www.toysrus.com.my/beyblade-x-bx-00-booster-dragoon-storm-4-60ra-10125377.html": {
@@ -234,104 +229,9 @@
     "price": "RM54.90",
     "available": false
   },
-  "https://www.toysrus.com.my/beyblade-x-bx-42-rubber-custom-grip-blue-ver.-10078292.html": {
-    "name": "Beyblade X Bx-42 Rubber Custom Grip Blue Ver.",
-    "price": "RM44.90",
-    "available": false
-  },
-  "https://www.toysrus.com.my/beyblade-x-cx-10-booster-wolf-hunt-f0-60db-10118777.html": {
-    "name": "Beyblade X Cx-10 Booster Wolf Hunt F0-60Db",
+  "https://www.toysrus.com.my/beyblade-x-cx-15-booster-ragnarage-fe4-55y-10138214.html": {
+    "name": "Beyblade X Cx-15 Booster Ragnarage Fe4-55Y",
     "price": "RM52.90",
-    "available": false
-  },
-  "https://www.toysrus.com.my/beyblade-x-bx-33-booster-weisstiger-3-60u-10036470.html": {
-    "name": "Beyblade X Bx-33 Booster Weisstiger 3-60U",
-    "price": "RM54.90",
-    "available": false
-  },
-  "https://www.toysrus.com.my/beyblade-x-bx-00-booster-draciel-shield-7-60d-10067987.html": {
-    "name": "Beyblade X Bx-00 Booster Draciel Shield 7-60D",
-    "price": "RM56.90",
-    "available": false
-  },
-  "https://www.toysrus.com.my/beyblade-x-cx-06-random-booster-fox-brush-select---assorted-10078302.html": {
-    "name": "Beyblade X Cx-06 Random Booster Fox Brush Select - Assorted",
-    "price": "RM52.90",
-    "available": false
-  },
-  "https://www.toysrus.com.my/beyblade-x-bx-45-booster-samurai-calibur-6-70m-10098507.html": {
-    "name": "Beyblade X Bx-45 Booster Samurai Calibur 6-70M",
-    "price": "RM54.90",
-    "available": false
-  },
-  "https://www.toysrus.com.my/beyblade-x-bx-41-rubber-custom-grip-10078291.html": {
-    "name": "Beyblade X BX-41 Rubber Custom Grip",
-    "price": "RM44.90",
-    "available": false
-  },
-  "https://www.toysrus.com.my/beyblade-ux-06-booster-leon-crest-7-60gn-10043362.html": {
-    "name": "Beyblade Ux-06 Booster Leon Crest 7-60Gn",
-    "price": "RM54.90",
-    "available": false
-  },
-  "https://www.toysrus.com.my/beyblade-x-bx-40-winder-launcher-l-10078294.html": {
-    "name": "Beyblade X BX-40 Winder Launcher L",
-    "price": "RM44.90",
-    "available": false
-  },
-  "https://www.toysrus.com.my/beyblade-x-cx-09-starter-soec-10098508.html": {
-    "name": "Beyblade X CX-09 Starter Soec",
-    "price": "RM89.90",
-    "available": false
-  },
-  "https://www.toysrus.com.my/beyblade-x-bx-25-gear-case-10020616.html": {
-    "name": "Beyblade X Bx-25 Gear Case",
-    "price": "RM189.90",
-    "available": false
-  },
-  "https://www.toysrus.com.my/beybladex-cx-14-starter-kn-10138213.html": {
-    "name": "Beybladex Cx-14 Starter KN",
-    "price": "RM85.90",
-    "available": false
-  },
-  "https://www.toysrus.com.my/beyblade-x-bx-24-random-booste-10016235.html": {
-    "name": "BEYBLADE X BX-24 RANDOM BOOSTE",
-    "price": "RM52.90",
-    "available": false
-  },
-  "https://www.toysrus.com.my/beyblade-x-bx-29-custom-grip-white-ver.-10026910.html": {
-    "name": "Beyblade X Bx-29 Custom Grip White Ver.",
-    "price": "RM44.90",
-    "available": false
-  },
-  "https://www.toysrus.com.my/beyblade-x-ux-12-random-booster-vol.5---assorted-10067986.html": {
-    "name": "Beyblade X Ux-12 Random Booster Vol.5 - Assorted",
-    "price": "RM52.90",
-    "available": false
-  },
-  "https://www.toysrus.com.my/beyblade-bx-08-3-on-3-deck-set-10008052.html": {
-    "name": "BEYBLADE BX-08 3 ON 3 DECK SET",
-    "price": "RM129.90",
-    "available": false
-  },
-  "https://www.toysrus.com.my/beyblade-bx-07-start-dash-set-10007157.html": {
-    "name": "BEYBLADE BX-07 START DASH SET",
-    "price": "RM299.90",
-    "available": false
-  },
-  "https://www.toysrus.com.my/beyblade-x-cx-12-booster-phoenix-flare-z9-80ww-10130572.html": {
-    "name": "Beyblade X Cx-12 Booster Phoenix Flare Z9-80Ww",
-    "price": "RM52.90",
-    "available": false
-  },
-  "https://www.toysrus.com.my/beyblade-bx-14-random-booster-10008058.html": {
-    "name": "BEYBLADE BX-14 RANDOM BOOSTER",
-    "price": "RM52.90",
-    "available": false
-  },
-  "https://www.toysrus.com.my/beyblade-x-bx-00-booster-dranzer-slash--10032771.html": {
-    "name": "Beyblade X BX-00 Booster Dranzer Slash",
-    "price": "RM56.90",
     "available": false
   },
   "https://www.toysrus.com.my/beyblade-x-cx-02-starter-wiar-10078296.html": {
@@ -339,74 +239,39 @@
     "price": "RM85.90",
     "available": false
   },
+  "https://www.toysrus.com.my/beyblade-x-bx-33-booster-weisstiger-3-60u-10036470.html": {
+    "name": "Beyblade X Bx-33 Booster Weisstiger 3-60U",
+    "price": "RM54.90",
+    "available": false
+  },
   "https://www.toysrus.com.my/beyblade-x-ux-14-starter-10078301.html": {
     "name": "Beyblade X UX-14 Starter",
     "price": "RM85.90",
     "available": false
   },
-  "https://www.toysrus.com.my/beyblade-x-ux-05-random-booster-shinobi-shadow-select---assorted-10036471.html": {
-    "name": "Beyblade X Ux-05 Random Booster Shinobi Shadow Select - Assorted",
-    "price": "RM54.90",
+  "https://www.toysrus.com.my/beyblade-bx-07-start-dash-set-10007157.html": {
+    "name": "BEYBLADE BX-07 START DASH SET",
+    "price": "RM299.90",
     "available": false
   },
-  "https://www.toysrus.com.my/beyblade-x-bx-00-starter-storm-spriggan-2-70m-10138211.html": {
-    "name": "Beyblade X Bx-00 Starter Storm Spriggan 2-70M",
-    "price": "RM85.90",
-    "available": false
-  },
-  "https://www.toysrus.com.my/beyblade-x-cx-01-starter-a-drbr-10078295.html": {
-    "name": "Beyblade X CX-01 Starter A DRBR",
-    "price": "RM85.90",
-    "available": false
-  },
-  "https://www.toysrus.com.my/beyblade-x-bx-36-random-booster-whale-wave-select---assorted-10050777.html": {
-    "name": "Beyblade X Bx-36 Random Booster Whale Wave Select - Assorted",
-    "price": "RM54.90",
-    "available": false
-  },
-  "https://www.toysrus.com.my/beyblade-x-bx-19-booster-rhino-horn-3-80s-10016218.html": {
-    "name": "Beyblade X Bx-19 Booster Rhino Horn 3-80S",
-    "price": "RM52.90",
-    "available": false
-  },
-  "https://www.toysrus.com.my/beyblade-x-bx-00-booster-rock-leone-6-80gn-10098505.html": {
-    "name": "Beyblade X Bx-00 Booster Rock Leone 6-80Gn",
+  "https://www.toysrus.com.my/beyblade-x-bx-00-booster-draciel-shield-7-60d-10067987.html": {
+    "name": "Beyblade X Bx-00 Booster Draciel Shield 7-60D",
     "price": "RM56.90",
     "available": false
   },
-  "https://www.toysrus.com.my/beyblade-x-cx-03-booster-drpr-10078297.html": {
-    "name": "Beyblade X CX-03 Booster DRPR",
-    "price": "RM52.90",
-    "available": false
-  },
-  "https://www.toysrus.com.my/beyblade-bx-02-starter-hells-s-10008047.html": {
-    "name": "BEYBLADE BX-02 STARTER HELLS S",
+  "https://www.toysrus.com.my/beyblade-bx-01-starter-dran-sw-10007158.html": {
+    "name": "BEYBLADE BX-01 STARTER DRAN SW",
     "price": "RM79.90",
     "available": false
   },
-  "https://www.toysrus.com.my/beyblade-bx-15-starter-leoncla-10008059.html": {
-    "name": "BEYBLADE BX-15 STARTER LEONCLA",
-    "price": "RM76.90",
-    "available": false
-  },
-  "https://www.toysrus.com.my/beyblade-bx-18-string-launcher-10008062.html": {
-    "name": "BEYBLADE BX-18 STRING LAUNCHER",
-    "price": "RM44.90",
-    "available": false
-  },
-  "https://www.toysrus.com.my/beyblade-x-bx-28-string-launcher-white-ver.-10026909.html": {
-    "name": "Beyblade X Bx-28 String Launcher White Ver.",
-    "price": "RM44.90",
-    "available": false
-  },
-  "https://www.toysrus.com.my/beyblade-x-bx-05-booster-wizardarrow-4-80b-10008050.html": {
-    "name": "Beyblade X Bx-05 Booster Wizardarrow 4-80B",
+  "https://www.toysrus.com.my/beyblade-ux-06-booster-leon-crest-7-60gn-10043362.html": {
+    "name": "Beyblade Ux-06 Booster Leon Crest 7-60Gn",
     "price": "RM54.90",
     "available": false
   },
-  "https://www.toysrus.com.my/beyblade-x-bx-44-booster-triceratops-m-85bs-10105007.html": {
-    "name": "Beyblade X Bx-44 Booster Triceratops M-85Bs",
-    "price": "RM54.90",
+  "https://www.toysrus.com.my/ux-18-random-booster-vol.8---assorted-10125376.html": {
+    "name": "Ux-18 Random Booster Vol.8 - Assorted",
+    "price": "RM52.90",
     "available": false
   },
   "https://www.toysrus.com.my/beyblade-bx-32-wide-stadium-10039169.html": {
@@ -414,14 +279,124 @@
     "price": "RM199.90",
     "available": false
   },
-  "https://www.toysrus.com.my/beyblade-x-bx-43-gear-case-white-ver.-10078290.html": {
-    "name": "Beyblade X Bx-43 Gear Case White Ver.",
+  "https://www.toysrus.com.my/beyblade-x-bx-41-rubber-custom-grip-10078291.html": {
+    "name": "Beyblade X BX-41 Rubber Custom Grip",
+    "price": "RM44.90",
+    "available": false
+  },
+  "https://www.toysrus.com.my/beyblade-bx-11-launcher-grip-10008054.html": {
+    "name": "BEYBLADE BX-11 LAUNCHER GRIP",
+    "price": "RM29.90",
+    "available": false
+  },
+  "https://www.toysrus.com.my/beyblade-x-cx-12-booster-phoenix-flare-z9-80ww-10130572.html": {
+    "name": "Beyblade X Cx-12 Booster Phoenix Flare Z9-80Ww",
+    "price": "RM52.90",
+    "available": false
+  },
+  "https://www.toysrus.com.my/beyblade-x-ux-12-random-booster-vol.5---assorted-10067986.html": {
+    "name": "Beyblade X Ux-12 Random Booster Vol.5 - Assorted",
+    "price": "RM52.90",
+    "available": false
+  },
+  "https://www.toysrus.com.my/beybladex-cx-14-starter-kn-10138213.html": {
+    "name": "Beybladex Cx-14 Starter KN",
+    "price": "RM85.90",
+    "available": false
+  },
+  "https://www.toysrus.com.my/beyblade-x-cx-10-booster-wolf-hunt-f0-60db-10118777.html": {
+    "name": "Beyblade X Cx-10 Booster Wolf Hunt F0-60Db",
+    "price": "RM52.90",
+    "available": false
+  },
+  "https://www.toysrus.com.my/beyblade-x-cx-03-booster-drpr-10078297.html": {
+    "name": "Beyblade X CX-03 Booster DRPR",
+    "price": "RM52.90",
+    "available": false
+  },
+  "https://www.toysrus.com.my/beyblade-x-bx-25-gear-case-10020616.html": {
+    "name": "Beyblade X Bx-25 Gear Case",
     "price": "RM189.90",
     "available": false
   },
-  "https://www.toysrus.com.my/beyblade-bx-04-startr-knight-s-10008049.html": {
-    "name": "BEYBLADE BX-04 STARTR KNIGHT S",
+  "https://www.toysrus.com.my/beyblade-x-bx-24-random-booste-10016235.html": {
+    "name": "BEYBLADE X BX-24 RANDOM BOOSTE",
+    "price": "RM52.90",
+    "available": false
+  },
+  "https://www.toysrus.com.my/beyblade-x-cx-09-starter-soec-10098508.html": {
+    "name": "Beyblade X CX-09 Starter Soec",
+    "price": "RM89.90",
+    "available": false
+  },
+  "https://www.toysrus.com.my/beyblade-bx-08-3-on-3-deck-set-10008052.html": {
+    "name": "BEYBLADE BX-08 3 ON 3 DECK SET",
+    "price": "RM129.90",
+    "available": false
+  },
+  "https://www.toysrus.com.my/beyblade-x-cx-01-starter-a-drbr-10078295.html": {
+    "name": "Beyblade X CX-01 Starter A DRBR",
+    "price": "RM85.90",
+    "available": false
+  },
+  "https://www.toysrus.com.my/beyblade-x-bx-29-custom-grip-white-ver.-10026910.html": {
+    "name": "Beyblade X Bx-29 Custom Grip White Ver.",
+    "price": "RM44.90",
+    "available": false
+  },
+  "https://www.toysrus.com.my/beyblade-x-bx-00-booster-rock-leone-6-80gn-10098505.html": {
+    "name": "Beyblade X Bx-00 Booster Rock Leone 6-80Gn",
+    "price": "RM56.90",
+    "available": false
+  },
+  "https://www.toysrus.com.my/beyblade-x-bx-40-winder-launcher-l-10078294.html": {
+    "name": "Beyblade X BX-40 Winder Launcher L",
+    "price": "RM44.90",
+    "available": false
+  },
+  "https://www.toysrus.com.my/beyblade-x-bx-45-booster-samurai-calibur-6-70m-10098507.html": {
+    "name": "Beyblade X Bx-45 Booster Samurai Calibur 6-70M",
+    "price": "RM54.90",
+    "available": false
+  },
+  "https://www.toysrus.com.my/beyblade-x-bx-36-random-booster-whale-wave-select---assorted-10050777.html": {
+    "name": "Beyblade X Bx-36 Random Booster Whale Wave Select - Assorted",
+    "price": "RM54.90",
+    "available": false
+  },
+  "https://www.toysrus.com.my/beyblade-x-bx-00-booster-dranzer-slash--10032771.html": {
+    "name": "Beyblade X BX-00 Booster Dranzer Slash",
+    "price": "RM56.90",
+    "available": false
+  },
+  "https://www.toysrus.com.my/beyblade-bx-02-starter-hells-s-10008047.html": {
+    "name": "BEYBLADE BX-02 STARTER HELLS S",
     "price": "RM79.90",
+    "available": false
+  },
+  "https://www.toysrus.com.my/beyblade-x-bx-16-random-booster-viper-tail-select---assorted-10008060.html": {
+    "name": "Beyblade X Bx-16 Random Booster Viper Tail Select - Assorted",
+    "price": "RM52.90",
+    "available": false
+  },
+  "https://www.toysrus.com.my/bx-47-string-launcher-l-red-ver.-10114860.html": {
+    "name": "Bx-47 String Launcher L Red Ver.",
+    "price": "RM44.90",
+    "available": false
+  },
+  "https://www.toysrus.com.my/beyblade-x-bx-19-booster-rhino-horn-3-80s-10016218.html": {
+    "name": "Beyblade X Bx-19 Booster Rhino Horn 3-80S",
+    "price": "RM52.90",
+    "available": false
+  },
+  "https://www.toysrus.com.my/beyblade-bx-15-starter-leoncla-10008059.html": {
+    "name": "BEYBLADE BX-15 STARTER LEONCLA",
+    "price": "RM76.90",
+    "available": false
+  },
+  "https://www.toysrus.com.my/beyblade-x-bx-00-starter-storm-spriggan-2-70m-10138211.html": {
+    "name": "Beyblade X Bx-00 Starter Storm Spriggan 2-70M",
+    "price": "RM85.90",
     "available": false
   },
   "https://www.toysrus.com.my/beyblade-bx-03-starter-wizard-10008048.html": {
@@ -434,19 +409,44 @@
     "price": "RM52.90",
     "available": false
   },
+  "https://www.toysrus.com.my/beyblade-x-ux-05-random-booster-shinobi-shadow-select---assorted-10036471.html": {
+    "name": "Beyblade X Ux-05 Random Booster Shinobi Shadow Select - Assorted",
+    "price": "RM54.90",
+    "available": false
+  },
+  "https://www.toysrus.com.my/beyblade-bx-18-string-launcher-10008062.html": {
+    "name": "BEYBLADE BX-18 STRING LAUNCHER",
+    "price": "RM44.90",
+    "available": false
+  },
+  "https://www.toysrus.com.my/beyblade-x-bx-05-booster-wizardarrow-4-80b-10008050.html": {
+    "name": "Beyblade X Bx-05 Booster Wizardarrow 4-80B",
+    "price": "RM54.90",
+    "available": false
+  },
+  "https://www.toysrus.com.my/beyblade-bx-04-startr-knight-s-10008049.html": {
+    "name": "BEYBLADE BX-04 STARTR KNIGHT S",
+    "price": "RM79.90",
+    "available": false
+  },
+  "https://www.toysrus.com.my/beyblade-x-bx-28-string-launcher-white-ver.-10026909.html": {
+    "name": "Beyblade X Bx-28 String Launcher White Ver.",
+    "price": "RM44.90",
+    "available": false
+  },
+  "https://www.toysrus.com.my/beyblade-x-bx-43-gear-case-white-ver.-10078290.html": {
+    "name": "Beyblade X Bx-43 Gear Case White Ver.",
+    "price": "RM189.90",
+    "available": false
+  },
+  "https://www.toysrus.com.my/beyblade-x-bx-44-booster-triceratops-m-85bs-10105007.html": {
+    "name": "Beyblade X Bx-44 Booster Triceratops M-85Bs",
+    "price": "RM54.90",
+    "available": false
+  },
   "https://www.toysrus.com.my/beybladex-bx-39-randombooster-sdr-10075698.html": {
     "name": "Beybladex Bx-39 Randombooster SDr",
     "price": "RM52.90",
-    "available": false
-  },
-  "https://www.toysrus.com.my/beyblade-x-bx-16-random-booster-viper-tail-select---assorted-10008060.html": {
-    "name": "Beyblade X Bx-16 Random Booster Viper Tail Select - Assorted",
-    "price": "RM52.90",
-    "available": false
-  },
-  "https://www.toysrus.com.my/bx-47-string-launcher-l-red-ver.-10114860.html": {
-    "name": "Bx-47 String Launcher L Red Ver.",
-    "price": "RM44.90",
     "available": false
   },
   "https://www.toysrus.com.my/beyblade-x-bx-06-booster-knightshield-3-80n-10008051.html": {
