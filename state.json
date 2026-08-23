@@ -14,11 +14,6 @@
     "price": null,
     "available": true
   },
-  "https://www.toysrus.com.my/beyblade-x-cx-07-starter-10098503.html": {
-    "name": "Beyblade X Cx-07 Starter",
-    "price": "RM89.90",
-    "available": true
-  },
   "https://www.toysrus.com.my/beyblade-x-ux-02-starter-hells-hammer-10026913.html": {
     "name": "Beyblade X Ux-02 Starter Hells Hammer",
     "price": "RM79.90",
@@ -33,6 +28,11 @@
     "name": "Beyblade X Ux-09 Starter Samurai Saber 2-70l",
     "price": "RM109.90",
     "available": false
+  },
+  "https://www.toysrus.com.my/beyblade-x-cx-07-starter-10098503.html": {
+    "name": "Beyblade X Cx-07 Starter",
+    "price": "RM89.90",
+    "available": true
   },
   "https://www.toysrus.com.my/beyblade-x-ux-15-shark-scale-deck-set-10098506.html": {
     "name": "Beyblade X UX-15 Shark Scale Deck Set",
