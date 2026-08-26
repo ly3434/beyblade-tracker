@@ -19,6 +19,16 @@
     "price": "RM79.90",
     "available": true
   },
+  "https://www.toysrus.com.my/beyblade-x-ux-09-starter-samurai-saber-2-70l-10063440.html": {
+    "name": "Beyblade X Ux-09 Starter Samurai Saber 2-70l",
+    "price": "RM109.90",
+    "available": false
+  },
+  "https://www.toysrus.com.my/beyblade-x-cx-07-starter-10098503.html": {
+    "name": "Beyblade X Cx-07 Starter",
+    "price": "RM89.90",
+    "available": false
+  },
   "https://www.toysrus.com.my/beyblade-bx-100-booster-dranzer-spiral-10008055.html": {
     "name": "Beyblade BX-100 Booster Dranzer Spiral",
     "price": "RM56.90",
@@ -34,11 +44,6 @@
     "price": "RM129.90",
     "available": false
   },
-  "https://www.toysrus.com.my/beyblade-x-ux-09-starter-samurai-saber-2-70l-10063440.html": {
-    "name": "Beyblade X Ux-09 Starter Samurai Saber 2-70l",
-    "price": "RM109.90",
-    "available": false
-  },
   "https://www.toysrus.com.my/beyblade-x-ux-01-starter-dran-buster-10026912.html": {
     "name": "Beyblade X Ux-01 Starter Dran Buster",
     "price": "RM79.90",
@@ -47,11 +52,6 @@
   "https://www.toysrus.com.my/beyblade-x-ux-03-booster-wizard-rod-5-70db-10026914.html": {
     "name": "Beyblade X Ux-03 Booster Wizard Rod 5-70Db",
     "price": "RM52.90",
-    "available": false
-  },
-  "https://www.toysrus.com.my/beyblade-x-cx-07-starter-10098503.html": {
-    "name": "Beyblade X Cx-07 Starter",
-    "price": "RM89.90",
     "available": false
   },
   "https://www.toysrus.com.my/pre-order-beyblade-x-cx-00-evangelion-deck-set-estimated-end-aug-2026-10144059.html": {
