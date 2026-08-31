@@ -49,11 +49,6 @@
     "price": "RM52.90",
     "available": false
   },
-  "https://www.toysrus.com.my/beyblade-x-ux-21-hellsnether-deck-set-10162951.html": {
-    "name": "Beyblade X UX-21 Hellsnether Deck Set",
-    "price": "RM129.90",
-    "available": false
-  },
   "https://www.toysrus.com.my/beyblade-x-ux-20-starter-glory-valkyrie-lf--10156290.html": {
     "name": "Beyblade X UX-20 Starter Glory Valkyrie LF",
     "price": "RM85.90",
@@ -452,6 +447,11 @@
   "https://www.toysrus.com.my/beyblade-burst-b-203-ultimate-fusion-dx-set-1173012.html": {
     "name": "Beyblade Burst B-203 Ultimate Fusion DX Set",
     "price": "RM309.90",
+    "available": false
+  },
+  "https://www.toysrus.com.my/beyblade-x-ux-21-hellsnether-deck-set-10162951.html": {
+    "name": "Beyblade X UX-21 Hellsnether Deck Set",
+    "price": "RM129.90",
     "available": false
   }
 }
