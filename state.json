@@ -14,14 +14,14 @@
     "price": null,
     "available": true
   },
-  "https://www.toysrus.com.my/beyblade-x-ux-02-starter-hells-hammer-10026913.html": {
-    "name": "Beyblade X Ux-02 Starter Hells Hammer",
-    "price": "RM79.90",
-    "available": true
-  },
   "https://www.toysrus.com.my/beyblade-bx-100-booster-dranzer-spiral-10008055.html": {
     "name": "Beyblade BX-100 Booster Dranzer Spiral",
     "price": "RM56.90",
+    "available": false
+  },
+  "https://www.toysrus.com.my/beyblade-x-ux-02-starter-hells-hammer-10026913.html": {
+    "name": "Beyblade X Ux-02 Starter Hells Hammer",
+    "price": "RM79.90",
     "available": false
   },
   "https://www.toysrus.com.my/beyblade-x-ux-15-shark-scale-deck-set-10098506.html": {
