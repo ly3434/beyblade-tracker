@@ -14,14 +14,14 @@
     "price": null,
     "available": true
   },
-  "https://www.toysrus.com.my/beyblade-bx-100-booster-dranzer-spiral-10008055.html": {
-    "name": "Beyblade BX-100 Booster Dranzer Spiral",
-    "price": "RM56.90",
-    "available": false
-  },
   "https://www.toysrus.com.my/pre-order-beyblade-x-cx-19-random-booster-crocotread-select-expected-mid-september-2026-10167664.html": {
     "name": "(Pre-Order) Beyblade X CX-19 Random Booster CrocoTread Select (Expected Mid-September 2026)",
     "price": "RM52.90",
+    "available": false
+  },
+  "https://www.toysrus.com.my/beyblade-bx-100-booster-dranzer-spiral-10008055.html": {
+    "name": "Beyblade BX-100 Booster Dranzer Spiral",
+    "price": "RM56.90",
     "available": false
   },
   "https://www.toysrus.com.my/pre-order-beyblade-x-cx-00-evangelion-deck-set-estimated-end-aug-2026-10144059.html": {
