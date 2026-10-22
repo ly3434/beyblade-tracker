@@ -44,11 +44,6 @@
     "price": "RM129.90",
     "available": false
   },
-  "https://www.toysrus.com.my/beyblade-x-ux-21-hellsnether-deck-set-10162951.html": {
-    "name": "Beyblade X UX-21 Hellsnether Deck Set",
-    "price": "RM129.90",
-    "available": false
-  },
   "https://www.toysrus.com.my/beyblade-x-bx-48-random-booster-vol.9-10130573.html": {
     "name": "Beyblade X Bx-48 Random Booster Vol.9",
     "price": "RM52.90",
@@ -62,11 +57,6 @@
   "https://www.toysrus.com.my/beyblade-x-cx-11-emperor-mite-deck-set-10118778.html": {
     "name": "Beyblade X Cx-11 Emperor Mite Deck Set",
     "price": "RM129.90",
-    "available": false
-  },
-  "https://www.toysrus.com.my/beyblade-x-cx-19-random-booster-crocotread-select-10167664.html": {
-    "name": "Beyblade X CX-19 Random Booster CrocoTread Select",
-    "price": "RM52.90",
     "available": false
   },
   "https://www.toysrus.com.my/beyblade-x-bx-46-stadium-set-10112963.html": {
@@ -467,6 +457,16 @@
   "https://www.toysrus.com.my/beyblade-burst-b-203-ultimate-fusion-dx-set-1173012.html": {
     "name": "Beyblade Burst B-203 Ultimate Fusion DX Set",
     "price": "RM309.90",
+    "available": false
+  },
+  "https://www.toysrus.com.my/beyblade-x-ux-21-hellsnether-deck-set-10162951.html": {
+    "name": "Beyblade X UX-21 Hellsnether Deck Set",
+    "price": "RM129.90",
+    "available": false
+  },
+  "https://www.toysrus.com.my/beyblade-x-cx-19-random-booster-crocotread-select-10167664.html": {
+    "name": "Beyblade X CX-19 Random Booster CrocoTread Select",
+    "price": "RM52.90",
     "available": false
   }
 }
