@@ -462,12 +462,12 @@
   "https://www.toysrus.com.my/beyblade-x-cx-20-customize-set-c-791103647.html": {
     "name": "Beyblade X CX-20 Customize Set C",
     "price": "RM174.90",
-    "available": false
+    "available": true
   },
   "https://www.toysrus.com.my/beyblade-bx-54-booster-sieg-superion-0-70lp-791103648.html": {
     "name": "Beyblade BX-54 Booster Sieg Superion 0-70LP",
     "price": "RM52.90",
-    "available": false
+    "available": true
   },
   "https://www.toysrus.com.my/beyblade-x-ux-21-hellsnether-deck-set-10162951.html": {
     "name": "Beyblade X UX-21 Hellsnether Deck Set",
